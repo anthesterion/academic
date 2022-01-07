@@ -4,3 +4,4 @@ title: "academic" # the name of your site, e.g. ACME Corp.
 description: "a Jekyll theme for academia"
 
 theme: jekyll-theme-cayman
+theme: academic-jekyll-theme
