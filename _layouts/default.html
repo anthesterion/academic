@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <!-- Ensures MathJax works -->
-  {% if page.use_math %}
-  {% include mathjax_support.html %}
-  {% endif %}
+  include mathjax_support.html
+  
 
   {% include head.html %}
 
