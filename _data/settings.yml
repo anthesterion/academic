@@ -1,0 +1,10 @@
+# Side menu, both current and future tabs
+
+menu:
+- {name: 'Publications', url: '/publications'}
+- {name: 'Teaching', url: '/teaching'}
+- {name: 'Misc. writing', url: '/misc'}
+
+future_menu:
+- {name: 'Origami', url: '/origami'}
+- {name: 'Research', url: '/research'}

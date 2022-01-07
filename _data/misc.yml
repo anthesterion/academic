@@ -1,0 +1,17 @@
+# Notes, posters, talk slides
+
+notes:
+- {filename: 'five_days_algebra_notes.pdf', title: 'Five days of algebra', description: "Five algebra lectures covering basic group, ring, and module theory, with exercises taken from Dummit & Foote or sourced from simple proofs. The emphasis is on solving problems, hence every proof refers to an exercise. Made with Harrison Gimenez for Notre Dame's Bridge Program, in 2021."}
+- {filename: 'simplicial_BG.pdf', title: 'On the simplicial construction for the classifying space of a group', description: "These notes roughly follow section 4.4.2 in Cohen's book 'Bundles, Homotopy, and Manifolds'. Presented for a geometry class."}
+
+posters:
+- {filename: 'MHD_poster.pdf', title: 'Low Regularity Non-$L^2(\mathbb{R}^n)$ Local Solutions to the gMHD-$\alpha$ System', description: "Presented at the CURAS Research Fair at Creighton University in August 2019."}
+- {filename: 'FOC_poster.pdf', title: "Feynman's Operational Calculus and the Evolution Equation", description: "Presented at the Undergraduate Poster Session at JMM in January 2019 and at the CURAS Research Fair at Creighton University in August 2018."}
+
+talks:
+- {filename: 'model_cats_slides.pdf', title: 'An introduction to model categories and homotopy limits', description: "How do we deal with constructions (e.g. pushouts) that don't commute with homotopy equivalences? Presented at the Graduate Student Topology Seminar at Notre Dame in April 2021."}
+- {filename: 'MHD_slides.pdf', title: 'Low Regularity Non-$L^2(\mathbb{R}^n)$ Local Solutions to the gMHD-$\alpha$ System', description: "Talk on the generalized Magneto-Hydrodynamic System, from a research project done with Nathan Pennington at Creighton University in the summer of 2019."}
+- {filename: 'FOC_slides.pdf', title: "Feynman's Operational Calculus and the Evolution Equation", description: "Expository slides for a research project on Feynman Operational Calculus, conducted in the summer of 2018 under the supervision of Lance Nielsen at Creighton University."}
+
+others:
+- {filename: 'intro-to-(co)limits_notes.pdf', title: 'Computing (co)limits', description: "A relatively short introduction to category theory aimed towards understanding and computing limits and colimits. Gave as a lecture to upcoming graduate students attending Notre Dame's Bridge Program, in August 2021."}

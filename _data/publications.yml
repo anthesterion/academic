@@ -1,0 +1,5 @@
+# Papers
+# format: - {name: 'name', coauthors: 'coauthors', journal: 'journal', year: '20XX', filename: 'filename.pdf', url: 'journal.url', arxiv: 'arxiv.url'}
+
+papers:
+- {name: 'Low regularity of non-$L^2(\mathbb{R}^n)$ local solutions to gMHD-$\alpha$ systems', coauthors: 'Nathan Pennington', journal: 'Electron. J. Differential Equations, Vol. 2020 (2020), No. 54', year: '2020', filename: 'gMHD_paper.pdf', url: 'https://ejde.math.txstate.edu/Volumes/2020/54/riva.pdf', arxiv: 'https://arxiv.org/abs/2005.14130'}
