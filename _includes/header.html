@@ -1,0 +1,19 @@
+<!-- Builds header -->
+
+<header class="d-flex flex-column flex-md-row align-items-center pb-3 mb-5 border-bottom">
+  <div>
+    <!-- The line below makes sure that "Lorenzo Riva" links to the home page -->
+    <a href="{{ site.github.url }}/" class="d-flex align-items-center text-decoration-none">
+      <span class="fs-4 fw-bold">{{ site.title }}</span>
+    </a>
+    <!-- In case I need a description right after "Lorenzo Riva", here it is: -->
+    <span>lriva@nd.edu</span>
+  </div>
+  <!-- This piece builds the side menu -->
+  <nav class="d-inline-flex mt-2 mt-md-0 ms-md-auto">
+    <a class="me-3 py-2 text-decoration-none" href="{{ site.github.url }}/">Home</a>
+    {% for item in site.data.settings.menu %}
+      <a class="me-3 py-2 text-decoration-none" href="{{ site.github.url }}{{ item.url }}">{{ item.name }}</a>
+    {% endfor %}
+  </nav>
+</header>
