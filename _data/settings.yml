@@ -2,9 +2,9 @@
 
 menu:
 - {name: 'Publications', url: '/publications'}
-- {name: 'Teaching', url: '/teaching'}
-- {name: 'Misc. writing', url: '/misc'}
+- {name: 'Notes', url: '/misc'}
 
 future_menu:
 - {name: 'Origami', url: '/origami'}
 - {name: 'Research', url: '/research'}
+- {name: 'Teaching', url: '/teaching'}
