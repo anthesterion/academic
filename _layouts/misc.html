@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<!-- Makes the "Misc" page -->
+
+<div class="row g-5 mb-5">
+  <div>
+    Some things I wrote or cowrote.
+    <br> <br>
+    <h4 class="fw-bold mb-2">Notes</h4>
+    <ul>
+      {% for item in site.data.misc.notes %}
+      <li> <a href="/assets/fls/notes/{{ item.filename }}" target=_blank>{{ item.title }}</a>: {{ item.description }} </li>
+      {% endfor %}
+    </ul>
+    <h4 class="fw-bold mb-2">Slides</h4>
+    <ul>
+      {% for item in site.data.misc.talks %}
+      <li> <a href="/assets/fls/slides/{{ item.filename }}" target=_blank>{{ item.title }}</a>: {{ item.description }} </li>
+      {% endfor %}
+    </ul>
+    <h4 class="fw-bold mb-2">Posters</h4>
+    <ul>
+      {% for item in site.data.misc.posters %}
+      <li> <a href="/assets/fls/posters/{{ item.filename }}" target=_blank>{{ item.title }}</a>: {{ item.description }} </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>

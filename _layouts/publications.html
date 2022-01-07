@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<!-- Makes the "Publications" page -->
+
+<div class="row g-5 mb-5">
+  <div>
+    <h4 class="fw-bold">Publications</h4>
+      <ol reversed>
+        {% for item in site.data.publications.papers %}
+        <li> {{ item.name }}, with {{ item.coauthors }}, <i>{{ item.journal }}</i>, {{ item.year }}. <br>
+          [<a href="/assets/fls/papers/{{ item.filename }}" target=_blank>pdf</a>] [<a href="{{ item.url }}" target=_blank>journal</a>] [<a href="{{ item.arxiv }}" target=_blank>arXiv</a>] </li>
+        {% endfor %}
+      </ol>
+  </div>
+</div>
