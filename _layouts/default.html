@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <!-- Ensures MathJax works -->
-  <script type="text/javascript"
-   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-  </script>
+  {% if page.use_math %}
+  {% include mathjax_support.html %}
+  {% endif %}
 
   {% include head.html %}
 
