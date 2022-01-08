@@ -17,20 +17,20 @@ layout: default
   <br><br>
 
   <div>
-    <table border="2px solid black" style="width:100%">
-      <tr border="2px solid black">
-        <th style="width:15%">Speaker</th>
-        <th style="width:15%">Affiliation</th>
-        <th style="width:60%">Title</th>
-        <th style="width:10%">Date</th>
+    <table style="width:100%; border:3px solid black;border-collapse;collapse">
+      <tr style="3px solid black;border-collapse;collapse">
+        <th style="width:15%;3px solid black;border-collapse;collapse">Speaker</th>
+        <th style="width:15%;3px solid black;border-collapse;collapse">Affiliation</th>
+        <th style="width:60%;3px solid black;border-collapse;collapse">Title</th>
+        <th style="width:10%;3px solid black;border-collapse;collapse">Date</th>
       </tr>
 
       {% for item in site.data.seminar_entries.entries %}
       <tr>
-        <td border="2px solid black">{{ item.name }}</td>
-        <td border="2px solid black">{{ item.affiliation }}</td>
-        <td border="2px solid black">{{ item.title }}</td>
-        <td border="2px solid black">{{ item.date }}</td>
+        <td style="3px solid black;border-collapse;collapse">{{ item.name }}</td>
+        <td style="3px solid black;border-collapse;collapse">{{ item.affiliation }}</td>
+        <td style="3px solid black;border-collapse;collapse">{{ item.title }}</td>
+        <td style="3px solid black;border-collapse;collapse">{{ item.date }}</td>
       </tr>
       {% endfor %}
     </table>
