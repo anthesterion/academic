@@ -1,4 +1,4 @@
 ---
 layout: misc
-title: "Misc. writing"
+title: "Notes"
 ---

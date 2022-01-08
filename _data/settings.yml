@@ -1,8 +1,10 @@
-# Side menu, both current and future tabs
+# Top menu, both current and future tabs
+# format: - {name: 'Name', url: '/url'}
 
 menu:
 - {name: 'Publications', url: '/publications'}
 - {name: 'Notes', url: '/misc'}
+- {name: 'Seminar', url: '/gss'}
 
 future_menu:
 - {name: 'Origami', url: '/origami'}
