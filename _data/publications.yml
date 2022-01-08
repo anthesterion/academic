@@ -1,4 +1,4 @@
-# Papers
+# papers
 # format: - {name: 'name', coauthors: 'coauthors', journal: 'journal', year: '20XX', filename: 'filename.pdf', url: 'journal.url', arxiv: 'arxiv.url'}
 
 papers:
