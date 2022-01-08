@@ -8,7 +8,28 @@ layout: default
   <div>
     <h4 class="fw-bold">Graduate Student Seminar</h4>
     I am co-organizing Notre Dame's Graduate Student Seminar with Ilya Marchenko. The current and past schedules can be found here, and this page has the current schedule.
+
     <br><br>
+
     We meet on Thursday at 2 PM EST (unless otherwise specified) and all talks are streamed <a href="https://notredame.zoom.us/j/95815357423" target=_blank>on Zoom</a>. Online attendees are welcome!
   </div>
+
+  <br><br>
+
+  <table>
+  <tr>
+    <th>Speaker</th>
+    <th>Affiliation</th>
+    <th>Title</th>
+    <th>Date</th>
+  </tr>
+  {% for item in site.data.seminar_entries.entries %}
+  <tr>
+    <td>{{ item.name }}</td>
+    <td>{{ item.affiliation }}</td>
+    <td>{{ item.title }}</td>
+    <td>{{ item.date }}</td>
+  </tr>
+</table>
+
 </div>
