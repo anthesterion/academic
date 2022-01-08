@@ -27,10 +27,10 @@ layout: default
 
       {% for item in site.data.seminar_entries.entries %}
       <tr>
-        <td style="border-right: 1px solid black;">{{ item.name }}</td>
-        <td style="border-right: 1px solid black;">{{ item.affiliation }}</td>
-        <td style="border-right: 1px solid black;">{{ item.title }}</td>
-        <td>{{ item.date }}</td>
+        <td style="border-right: 1px solid black; padding: 5px">{{ item.name }}</td>
+        <td style="border-right: 1px solid black; padding: 5px">{{ item.affiliation }}</td>
+        <td style="border-right: 1px solid black; padding: 5px">{{ item.title }}</td>
+        <td style="padding: 5px">{{ item.date }}</td>
       </tr>
       {% endfor %}
     </table>
