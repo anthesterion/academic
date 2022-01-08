@@ -18,18 +18,18 @@ layout: default
 
   <div>
     <table style="width:85%;margin-left:auto;margin-right:auto">
-      <tr style="border-bottom: 3px solid black;">
-        <th style="width:15%; border-right: 3px solid black;">Speaker</th>
-        <th style="width:15%; border-right: 3px solid black;">Affiliation</th>
-        <th style="width:60%; border-right: 3px solid black;">Title</th>
-        <th style="width:10%; border-right: 3px solid black;">Date</th>
+      <tr style="border-bottom: 1px solid black;">
+        <th style="width:15%; border-right: 1px solid black; padding: 5px">Speaker</th>
+        <th style="width:15%; border-right: 1px solid black; padding: 5px">Affiliation</th>
+        <th style="width:60%; border-right: 1px solid black; padding: 5px">Title</th>
+        <th style="width:10%; padding: 5px">Date</th>
       </tr>
 
       {% for item in site.data.seminar_entries.entries %}
       <tr>
-        <td style="border-right: 3px solid black;">{{ item.name }}</td>
-        <td style="border-right: 3px solid black;">{{ item.affiliation }}</td>
-        <td style="border-right: 3px solid black;">{{ item.title }}</td>
+        <td style="border-right: 1px solid black;">{{ item.name }}</td>
+        <td style="border-right: 1px solid black;">{{ item.affiliation }}</td>
+        <td style="border-right: 1px solid black;">{{ item.title }}</td>
         <td>{{ item.date }}</td>
       </tr>
       {% endfor %}
