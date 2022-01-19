@@ -5,6 +5,6 @@ entries:
 - {name: 'Alex Himonas', affiliation: 'Notre Dame', title: 'TBA', date: 'Feb. 10', abstract: ''}
 - {name: 'Pavel Mnev', affiliation: 'Notre Dame', title: 'TBA', date: 'Feb. 17', abstract: ''}
 - {name: 'Jeff Diller', affiliation: 'Notre Dame', title: 'TBA', date: 'Mar. 3', abstract: ''}
-- {name: 'Anish Chedalavada', affiliation: 'UIC', title: 'TBA', date: 'Mar. 17', abstract: ''}
+- {name: 'Anish Chedalavada', affiliation: 'UIC', title: 'Tensor-Triangular Classification and Balmer Spectra', date: 'Mar. 17', abstract: ''}
 - {name: 'Gurutam Thockchom', affiliation: 'Notre Dame', title: 'TBA', date: 'TBA', abstract: ''}
 - {name: 'Panel', affiliation: 'Various', title: 'Panel on Academic Jobs', date: 'TBA', abstract: ''}
