@@ -36,4 +36,15 @@ layout: default
     </table>
   </div>
 
+  <br>
+
+  <div>
+    <h5 class="fw-bold">Abstracts</h5>
+    <ul>
+      {% for item in site.data.seminar_entries.entries %}
+      <li> <b>{{ item.title }}.</b> {{ item.abstract }} </li>
+      {% endfor %}
+    </ul>
+  </div>
+
 </div>
