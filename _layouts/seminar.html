@@ -27,7 +27,7 @@ layout: default
 
       {% for item in site.data.seminar_entries.entries %}
       <tr>
-        <td style="border-right: 1px solid black; padding: 5px">{{ item.name }}</td>
+        <td style="border-right: 1px solid black; padding: 5px"><a href="{{ item.web }}" target=_blank>{{ item.name }}</a></td>
         <td style="border-right: 1px solid black; padding: 5px">{{ item.affiliation }}</td>
         <td style="border-right: 1px solid black; padding: 5px">{{ item.title }}</td>
         <td style="padding: 5px">{{ item.date }}</td>
