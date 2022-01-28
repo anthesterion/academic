@@ -11,5 +11,5 @@ entries:
 - {name: 'Anish Chedalavada', affiliation: 'UIC', title: 'Tensor-Triangular Classification and Balmer Spectra', date: 'Mar. 17', abstract: 'TBA', web: 'https://avc2.people.uic.edu'}
 - {name: 'Misha Gekhtman', affiliation: 'Notre Dame', title: 'TBA', date: 'Monday Apr. 4, 2:00 PM', abstract: 'TBA', web: 'https://math.nd.edu/people/faculty/michael-gekhtman/'}
 - {name: 'Gurutam Thockchom', affiliation: 'Notre Dame', title: 'TBA', date: 'Tuesday Apr. 5, 1:30 PM', abstract: 'TBA', web: 'https://math.nd.edu/people/graduate-students/'}
-- {name: 'Will Dudarov', affiliation: 'U Wash', title: 'TBA', date: 'Apr. 14', abstract: 'TBA', web: 'https://sites.google.com/view/william-dudarov/home?authuser=1'}
+- {name: 'Will Dudarov', affiliation: 'U Washington', title: 'TBA', date: 'Apr. 14', abstract: 'TBA', web: 'https://sites.google.com/view/william-dudarov/home?authuser=1'}
 - {name: 'Panel', affiliation: 'Various', title: 'Panel on Academic Jobs', date: 'TBA', abstract: 'TBA', web: 'anthesterion.github.io/seminar'}
