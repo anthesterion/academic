@@ -1,12 +1,14 @@
 # Format: - {name: 'name', affiliation: 'affiliation', title: 'title', date: 'date', abstract: 'abstract'}
 
+# - {name: 'Felix Janda', affiliation: 'Notre Dame', title: 'TBA', date: 'Mar. 10', abstract: ''}
+
 entries:
 - {name: 'Lorenzo Riva', affiliation: 'Notre Dame', title: 'You could have formulated the Cobordism Hypothesis', date: 'Jan. 27', abstract: 'In this talk we will try to study manifolds in their totality: all $n$-manifolds, or all manifolds up to a fixed dimension, or all manifolds equipped with a certain structure. It turns out that these collections form specific algebraic structures that are fully characterized by the Cobordism Hypothesis, formulated by Baez-Dolan and proven by Lurie. In particular, we will talk about building manifolds by inductively gluing cobordisms, some category theory, and the algebraic restrictions imposed by a topological field theory, which is a representation of such an "algebra of manifolds".'}
 - {name: 'Alex Himonas', affiliation: 'Notre Dame', title: 'TBA', date: 'Feb. 10', abstract: ''}
 - {name: 'Pavel Mnev', affiliation: 'Notre Dame', title: 'TBA', date: 'Feb. 17', abstract: ''}
 - {name: 'Minh Chieu Tran', affiliation: 'Notre Dame', title: 'o-minimal method and generalized sum-product phenomena', date: 'Feb. 24', abstract: 'I will discuss a joint work with Yifan Jing and Souktik Roy where we show that for a bivariate polynomial $P(x,y) \in \mathbb{R}[x,y] \setminus (\mathbb{R}[x] \cup \mathbb{R}[y])$ to exhibit small expansion on a finite set $A \subseteq \mathbb{R}$, we must have $$ P(x,y) = f(\gamma u(x) + \delta u(y)) \text{ or } P(x,y) = f(u^m(x) u^n(y)) $$ for some univariate $f, g, u \in \mathbb{R}[t] \setminus \mathbb{R}$, constants $\gamma, \delta \in \mathbb{R}^{\neq 0}$, and $m, n \in \mathbb{N}^{\geq 1}$. This yields an Elekes-Ronyai type structural result for symmetric nonexpanders, resolving a question mentioned by de Zeeuw. Our result uses o-minimal/semi-algebro-geometric techniques to replace algebraic geometric techniques, which are only applicable to more special cases.'}
 - {name: 'Jeff Diller', affiliation: 'Notre Dame', title: 'TBA', date: 'Mar. 3', abstract: ''}
-- {name: 'Felix Janda', affiliation: 'Notre Dame', title: 'TBA', date: 'Mar. 10', abstract: ''}
 - {name: 'Anish Chedalavada', affiliation: 'UIC', title: 'Tensor-Triangular Classification and Balmer Spectra', date: 'Mar. 17', abstract: ''}
-- {name: 'Gurutam Thockchom', affiliation: 'Notre Dame', title: 'TBA', date: 'Tuesday Apr. 5', abstract: ''}
+- {name: 'Gurutam Thockchom', affiliation: 'Notre Dame', title: 'TBA', date: 'Tuesday Apr. 5, 1:30 PM', abstract: ''}
+- {name: 'Will Dudarov', affiliation: 'U Wash', title: 'TBA', date: 'Apr. 14', abstract: 'TBA'}
 - {name: 'Panel', affiliation: 'Various', title: 'Panel on Academic Jobs', date: 'TBA', abstract: ''}
