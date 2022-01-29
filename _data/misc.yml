@@ -2,7 +2,7 @@
 # format: - {filename: 'filename.something', title: 'title', description: 'some description'}
 
 notes:
-- {filename: 'five_days_algebra_notes.pdf', title: 'Five days of algebra', description: "Five algebra lectures covering basic group, ring, and module theory, with exercises taken from Dummit & Foote or sourced from simple proofs. The emphasis is on solving problems, hence every proof refers to an exercise. Made with Harrison Gimenez for Notre Dame's Bridge Program, in 2021."}
+- {filename: 'five_days_algebra_notes.pdf', title: 'Five days of algebra', description: "Five algebra lectures covering basic group, ring, and module theory, with exercises taken from Dummit & Foote or sourced from simple proofs. The emphasis is on solving problems, hence why every proof refers to an exercise. Made with Harrison Gimenez for Notre Dame's Bridge Program, in 2021."}
 - {filename: 'simplicial_BG.pdf', title: 'On the simplicial construction for the classifying space of a group', description: "These notes roughly follow section 4.4.2 in Cohen's book 'Bundles, Homotopy, and Manifolds'. Presented for a geometry class."}
 
 talks:
