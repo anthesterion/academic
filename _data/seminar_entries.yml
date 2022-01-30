@@ -8,8 +8,8 @@ entries:
 - {name: 'Jeff Diller', affiliation: 'Notre Dame', title: 'TBA', date: 'Mar. 3', abstract: 'TBA', web: 'https://www3.nd.edu/~jdiller/'}
 - {name: 'Anish Chedalavada', affiliation: 'UIC', title: 'Tensor-Triangular Classification and Balmer Spectra', date: 'Mar. 17', abstract: 'TBA', web: 'https://avc2.people.uic.edu'}
 - {name: 'Felix Janda', affiliation: 'Notre Dame', title: 'TBA', date: 'Mar. 24', abstract: 'TBA', web: 'http://fjanda.s3-website-us-east-1.amazonaws.com'}
-- {name: 'David Galvin', affiliation: 'Notre Dame', title: 'Covering levels of the Boolean cube -- Mantel, Tur\'an, and beyond', date: 'Mar. 31', abstract: 'TBA', web: 'https://www3.nd.edu/~dgalvin1/'}
-- {name: 'Misha Gekhtman', affiliation: 'Notre Dame', title: 'TBA', date: 'Monday Apr. 4, 2:00 PM', abstract: 'TBA', web: 'https://math.nd.edu/people/faculty/michael-gekhtman/'}
-- {name: 'Gurutam Thockchom', affiliation: 'Notre Dame', title: 'TBA', date: 'Tuesday Apr. 5, 1:30 PM', abstract: 'TBA', web: 'https://math.nd.edu/people/graduate-students/'}
+- {name: 'David Galvin', affiliation: 'Notre Dame', title: 'Covering levels of the Boolean cube -- Mantel, Turán, and beyond', date: 'Mar. 31', abstract: 'TBA', web: 'https://www3.nd.edu/~dgalvin1/'}
+- {name: 'Misha Gekhtman', affiliation: 'Notre Dame', title: 'TBA', date: '<b>Monday Apr. 4, 2:00 PM</b>', abstract: 'TBA', web: 'https://math.nd.edu/people/faculty/michael-gekhtman/'}
+- {name: 'Gurutam Thockchom', affiliation: 'Notre Dame', title: 'TBA', date: '<b>Tuesday Apr. 5, 1:30 PM</b>', abstract: 'TBA', web: 'https://math.nd.edu/people/graduate-students/'}
 - {name: 'Will Dudarov', affiliation: 'U Washington', title: 'TBA', date: 'Apr. 14', abstract: 'TBA', web: 'https://sites.google.com/view/william-dudarov/home?authuser=1'}
 - {name: 'Panel', affiliation: 'Various', title: 'Panel on Academic Jobs', date: 'TBA', abstract: 'TBA', web: 'anthesterion.github.io/seminar'}
