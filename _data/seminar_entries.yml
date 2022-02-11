@@ -5,14 +5,14 @@ entries:
 - {name: 'Alex Himonas', affiliation: 'Notre Dame', title: 'Analysis of the Korteweg-de Vries (KdV) equation', date: 'Feb. 10', web: 'https://math.nd.edu/people/faculty/alex-himonas/'}
 - {name: 'Pavel Mnev', affiliation: 'Notre Dame', title: 'On the Fukaya-Morse A-infinity category', date: 'Feb. 17', web: 'https://www3.nd.edu/~pmnev/'}
 - {name: 'Minh Chieu Tran', affiliation: 'Notre Dame', title: 'o-minimal method and generalized sum-product phenomena', date: 'Feb. 24', web: 'https://sites.nd.edu/cmtran/'}
-- {name: 'Jeff Diller', affiliation: 'Notre Dame', title: 'TBA', date: 'Mar. 3', abstract: 'TBA', web: 'https://www3.nd.edu/~jdiller/'}
-- {name: 'Anish Chedalavada', affiliation: 'UIC', title: 'Tensor-Triangular Classification and Balmer Spectra', date: 'Mar. 17', abstract: 'TBA', web: 'https://avc2.people.uic.edu'}
+- {name: 'Jeff Diller', affiliation: 'Notre Dame', title: 'TBA', date: 'Mar. 3', web: 'https://www3.nd.edu/~jdiller/'}
+- {name: 'Anish Chedalavada', affiliation: 'UIC', title: 'Tensor-Triangular Classification and Balmer Spectra', date: 'Mar. 17', web: 'https://avc2.people.uic.edu'}
 - {name: 'Felix Janda', affiliation: 'Notre Dame', title: 'TBA', date: 'Mar. 24', abstract: 'TBA', web: 'http://fjanda.s3-website-us-east-1.amazonaws.com'}
-- {name: 'David Galvin', affiliation: 'Notre Dame', title: 'Covering levels of the Boolean cube -- Mantel, Turán, and beyond', date: 'Mar. 31', abstract: 'TBA', web: 'https://www3.nd.edu/~dgalvin1/'}
-- {name: 'Misha Gekhtman', affiliation: 'Notre Dame', title: 'TBA', date: '<b>Monday Apr. 4, 2:00 PM</b>', abstract: 'TBA', web: 'https://math.nd.edu/people/faculty/michael-gekhtman/'}
-- {name: 'Gurutam Thockchom', affiliation: 'Notre Dame', title: 'TBA', date: '<b>Tuesday Apr. 5, 1:30 PM</b>', abstract: 'TBA', web: 'https://math.nd.edu/people/graduate-students/'}
-- {name: 'Will Dudarov', affiliation: 'U Washington', title: 'TBA', date: 'Apr. 14', abstract: 'TBA', web: 'https://sites.google.com/view/william-dudarov/home?authuser=1'}
-- {name: 'Panel', affiliation: 'Various', title: 'Panel on Academic Jobs', date: 'TBA', abstract: 'TBA', web: 'anthesterion.github.io/seminar'}
+- {name: 'David Galvin', affiliation: 'Notre Dame', title: 'Covering levels of the Boolean cube -- Mantel, Turán, and beyond', date: 'Mar. 31', web: 'https://www3.nd.edu/~dgalvin1/'}
+- {name: 'Misha Gekhtman', affiliation: 'Notre Dame', title: 'TBA', date: '<b>Monday Apr. 4, 2:00 PM</b>', web: 'https://math.nd.edu/people/faculty/michael-gekhtman/'}
+- {name: 'Gurutam Thockchom', affiliation: 'Notre Dame', title: 'TBA', date: '<b>Tuesday Apr. 5, 1:30 PM</b>', web: 'https://math.nd.edu/people/graduate-students/'}
+- {name: 'Will Dudarov', affiliation: 'U Washington', title: 'TBA', date: 'Apr. 14', web: 'https://sites.google.com/view/william-dudarov/home?authuser=1'}
+- {name: 'Panel', affiliation: 'Various', title: 'Panel on Academic Jobs', date: 'TBA', web: 'anthesterion.github.io/seminar'}
 
 abstracts:
 - {title: 'You could have formulated the cobordism hypothesis', abstract: 'In this talk we will try to study manifolds in their totality: all $n$-manifolds, or all manifolds up to a fixed dimension, or all manifolds equipped with a certain structure. It turns out that these collections form specific algebraic structures that are fully characterized by the Cobordism Hypothesis, formulated by Baez-Dolan and proven by Lurie. In particular, we will talk about building manifolds by inductively gluing cobordisms, some category theory, and the algebraic restrictions imposed by a topological field theory, which is a representation of such an "algebra of manifolds".'}
