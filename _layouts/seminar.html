@@ -29,7 +29,7 @@ layout: default
       <tr>
         <td style="border-right: 1px solid black; padding: 5px"><a href="{{ item.web }}" target=_blank>{{ item.name }}</a></td>
         <td style="border-right: 1px solid black; padding: 5px">{{ item.affiliation }}</td>
-        <td style="border-right: 1px solid black; padding: 5px">{{ item.title }}</td>
+        <td style="border-right: 1px solid black; padding: 5px"><a href="#{{ item.title }}">{{ item.title }}</a></td>
         <td style="padding: 5px">{{ item.date }}</td>
       </tr>
       {% endfor %}
@@ -42,7 +42,7 @@ layout: default
     <h5 class="fw-bold">Abstracts</h5>
     <ul>
       {% for item in site.data.seminar_entries.abstracts %}
-      <li> <b>{{ item.title }}.</b> {{ item.abstract }} </li>
+      <li> <a name="{{ item.title }}"></a><b>{{ item.title }}.</b> {{ item.abstract }} </li>
       {% endfor %}
     </ul>
   </div>
