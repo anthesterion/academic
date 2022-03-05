@@ -14,6 +14,7 @@ entries:
 - {name: 'Misha Gekhtman', affiliation: 'Notre Dame', title: 'TBA', date: '<b>Monday Apr. 4, 2:00 PM</b>', web: 'https://math.nd.edu/people/faculty/michael-gekhtman/'}
 - {name: 'Gurutam Thockchom', affiliation: 'Notre Dame', title: 'TBA', date: '<b>Tuesday Apr. 5, 1:30 PM</b>', web: 'https://math.nd.edu/people/graduate-students/'}
 - {name: 'Will Dudarov', affiliation: 'U Washington', title: 'TBA', date: 'Apr. 14', web: 'https://sites.google.com/view/william-dudarov/home?authuser=1'}
+- {name: 'Eric Jovinelli', affiliation: 'Notre Dame', title: 'TBA', date: '<b>Monday Apr. 18, 4:00 PM</b>'}
 - {name: 'Panel', affiliation: 'Various', title: 'Panel on Academic Jobs', date: 'TBA', web: 'https://anthesterion.github.io/seminar'}
 
 abstracts:
@@ -25,6 +26,7 @@ abstracts:
 - {title: 'Tensor-Triangular Classification and Balmer Spectra', abstract: 'TBA'}
 - {title: 'TBA', abstract: 'TBA'}
 - {title: 'Covering levels of the Boolean cube -- Mantel, Turán, and beyond', abstract: 'TBA'}
+- {title: 'TBA', abstract: 'TBA'}
 - {title: 'TBA', abstract: 'TBA'}
 - {title: 'TBA', abstract: 'TBA'}
 - {title: 'TBA', abstract: 'TBA'}
