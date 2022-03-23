@@ -5,8 +5,8 @@ menu:
 - {name: 'Publications', url: '/publications'}
 - {name: 'Notes', url: '/misc'}
 - {name: 'Seminar', url: '/seminar'}
+- {name: 'Origami', url: '/origami'}
 
 future_menu:
-- {name: 'Origami', url: '/origami'}
 - {name: 'Research', url: '/research'}
 - {name: 'Teaching', url: '/teaching'}
