@@ -9,7 +9,7 @@ entries:
 - {name: 'Anish Chedalavada', affiliation: 'UIC', title: 'An introduction to tensor-triangular geometry', date: 'Mar. 17', web: 'https://avc2.people.uic.edu'}
 - {name: 'Philippe Mathieu', affiliation: 'Notre Dame', title: 'Extensions of the Abelian Turaev-Viro construction and $\mathrm{U}\!\left(1\right)$ BF theory to any finite dimensional smooth oriented closed manifold', date: '<b>Wednesday Mar. 23, 3:30 PM<b>', web: 'https://math.nd.edu/people/faculty/philippe-mathieu/'}
 - {name: 'Felix Janda', affiliation: 'Notre Dame', title: 'Counting covers of a torus', date: 'Mar. 24', abstract: 'TBA', web: 'http://fjanda.s3-website-us-east-1.amazonaws.com'}
-- {name: 'David Galvin', affiliation: 'Notre Dame', title: 'Covering levels of the Boolean cube -- Mantel, Turán, and beyond', date: 'Mar. 31', web: 'https://www3.nd.edu/~dgalvin1/'}
+- {name: 'David Galvin', affiliation: 'Notre Dame', title: 'Stirling numbers and the normal order problem', date: 'Mar. 31', web: 'https://www3.nd.edu/~dgalvin1/'}
 - {name: 'Misha Gekhtman', affiliation: 'Notre Dame', title: 'TBA', date: '<b>Monday Apr. 4, 2:00 PM</b>', web: 'https://math.nd.edu/people/faculty/michael-gekhtman/'}
 - {name: 'Gurutam Thockchom', affiliation: 'Notre Dame', title: 'TBA', date: '<b>Tuesday Apr. 5, 1:30 PM</b>', web: 'https://math.nd.edu/people/graduate-students/'}
 - {name: 'Will Dudarov', affiliation: 'U Washington', title: 'TBA', date: 'Apr. 14', web: 'https://sites.google.com/view/william-dudarov/home?authuser=1'}
